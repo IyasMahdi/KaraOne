@@ -219,9 +219,9 @@ The `extended` mode of Infomax ICA handles both sub-Gaussian and super-Gaussian 
 
 ## 👤 Author
 
-**Mahdi Rabih Berair**  
-*BSc/MEng — Biomedical / Electrical Engineering*  
-📧 [your.email@university.ac.uk] · 🔗 [LinkedIn](https://linkedin.com) · 🐙 [GitHub](https://github.com)
+**Iyas Berair**  
+*BSc Electrical Engineering*  
+
 
 ---
 
